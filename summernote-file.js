@@ -1,12 +1,12 @@
 /**
- * Copyright 2019 [nobsod | Mathieu Coingt].
- * Website: https://www.nobsod.fr
- * Email: dev@nobsod.fr
+ * Copyright 2022 [medigital-dev].
+ * Website: https://me-digital.net
+ * Email: medigital.net@gmail.com
  * License: MIT
  *
- * Fork from summernote-audio : https://github.com/taalendigitaal/summernote-audio
+ * Fork from summernote-file : https://github.com/mathieu-coingt/summernote-file
  */
-(function (factory) {
+ (function (factory) {
 	/* Global define */
 	if (typeof define === 'function' && define.amd) {
 		// AMD. Register as an anonymous module.
